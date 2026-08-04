@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - **기본 응답 언어**: 한국어
 - **코드 주석**: 한국어로 작성
 - **커밋 메시지**: 한국어로 작성
-- **문서화**: 한국어로 작성 
+- **문서화**: 한국어로 작성 해봅시다요요요요
 - **변수명/함수명**: 영어 (코드 표준 준수)
 
 ## 프로젝트 개요
